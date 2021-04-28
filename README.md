@@ -1,7 +1,7 @@
 # Sneakers-x-IH
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Are sneakers more profitable than stocks?
 *Gabriel Verrone*
 
 *DA PT - Sao Paulo - October 2020*
