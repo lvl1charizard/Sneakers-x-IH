@@ -1,4 +1,4 @@
-# Sneakers-x-IH
+# Sneakers or Stocks?
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Are sneakers more profitable than stocks?
